@@ -1,0 +1,6 @@
+sentence= ("Never gonna give you up")
+print (sentence + "Never gonna let you down")
+print ("Never gonna run around an desert you")
+print ("Never gonna make you cry")
+print ("Never gonna say goodbye")
+print ("Never gonna tell a lie an hurt you")

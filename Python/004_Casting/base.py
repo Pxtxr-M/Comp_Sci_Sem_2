@@ -1,0 +1,6 @@
+x=int(4)
+y=int(2)
+print (x*y)
+print ("the first number is " + str(4))
+print ("the second number is " + str(2))
+print ("The Answer is " +str(8))
